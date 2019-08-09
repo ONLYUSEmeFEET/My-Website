@@ -2,10 +2,11 @@
 
 # Tasks
 
-1. Determine essential projects
-2. Condense webpage
-3. Review video player
-4. And as always, be accessible!
+* Determine essential projects
+* Condense webpage
+* Review video player
+* Check ALL links for functionality!
+* And as always, be accessible!
 
 ## Main layout
 * Shorten the height of main webpage
@@ -13,7 +14,6 @@
     * Place video elsewhere, perhaps as header
 * Remove blank space where appropriate
     * Be sure mobile view does not break
-* Check ALL links for functionality!
 
 ## Projects
 
