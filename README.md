@@ -1,14 +1,13 @@
-## Welcome to my website!
-Enjoy your stay. ;)
+## Welcome to my website's code!
 
-## Tasks
+# Tasks
 
 1. Determine essential projects
 2. Condense webpage
 3. Review video player
 4. And as always, be accessible!
 
-# Main layout
+## Main layout
 * Shorten the height of main webpage
     * Combine About and Resume headings
     * Place video elsewhere, perhaps as header
@@ -16,7 +15,7 @@ Enjoy your stay. ;)
     * Be sure mobile view does not break
 * Check ALL links for functionality!
 
-# Projects
+## Projects
 
 * Replace most Construct 2 games with newer content
     * Keep GalactiMAX and add its Xbox/Windows Store link
